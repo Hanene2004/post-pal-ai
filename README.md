@@ -52,19 +52,6 @@ Create high-engagement social media posts with platform-specific guidance, AI-dr
 
 ---
 
-## 📸 Screenshots
-
-### Advanced Creation Tools
-![Advisor](./screenshots/advisor.png)
-
-### Engagement Deep Dive
-![Engagement Explainer](./screenshots/explainer.png)
-
-### Dashboard Performance
-![Dashboard](./screenshots/dashboard.png)
-
----
-
 ## 🧠 Technical Highlights
 
 ### 1. Platform Rules Engine
